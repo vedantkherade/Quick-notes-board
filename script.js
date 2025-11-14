@@ -145,6 +145,7 @@ function onSubmit(e) {
     };
     // TODO(11): Push the new note into the notes array.
     notes.push(note);
+    
   }
 
   // TODO(12): Re-render notes and reset the form fields.
